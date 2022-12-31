@@ -15,6 +15,9 @@ void quick(){
 
 }
 
+void greet(){
+    cout << "Good Morning";
+}
 
 int main(){
 
