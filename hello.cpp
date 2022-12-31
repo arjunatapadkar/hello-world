@@ -1,4 +1,4 @@
-
+g
 
 #include<iostream>
 using namespace std;
@@ -18,11 +18,7 @@ void quick(){
 
 int main(){
 
-  
-
-    cout << "we are learning git ie version control";
-
-    cout << "this is new code inserted";
+    cout << "this is the new changes inside the main function ";
 
     return 0;
 }
