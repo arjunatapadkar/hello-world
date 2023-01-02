@@ -3,6 +3,10 @@
 #include<iostream>
 using namespace std;
 
+void func(){
+    cout << "new feature development";
+}
+
 void mergesort(){
 
     cout << "This version having merge sort feature";
