@@ -4,7 +4,11 @@
 using namespace std;
 
 void func(){
+<<<<<<< HEAD
     cout << "new feature development";
+=======
+    cout << "this is going to be a biggest feature of the year";
+>>>>>>> new2
 }
 
 void mergesort(){
@@ -29,7 +33,10 @@ void greet(){
 
 int main(){
 
+
     cout << "this is major change in master branch";
+
+    cout << "this code is the minor code changes has been done recently by Arjun";
     cout << "this is the new changes inside the main function ";
 
     return 0;
