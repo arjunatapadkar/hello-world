@@ -1,8 +1,12 @@
-g
+
 
 #include<iostream>
 using namespace std;
 
+void mergesort(){
+
+    cout << "This version having merge sort feature";
+}
 
 
 void bubbleSort(){
