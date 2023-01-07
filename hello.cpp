@@ -3,14 +3,19 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
+<<<<<<< HEAD
 
 
 
+=======
+timepass
+>>>>>>> parent of ddfab50 (latest)
 void func(){
-
+<<<<<<< HEAD
     cout << "new feature development";
-
+=======
     cout << "this is going to be a biggest feature of the year";
+>>>>>>> new2
 }
 
 void mergesort(){
