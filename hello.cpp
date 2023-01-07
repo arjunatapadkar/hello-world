@@ -2,13 +2,12 @@
 
 #include<iostream>
 using namespace std;
-timepass
+
 void func(){
-<<<<<<< HEAD
+
     cout << "new feature development";
-=======
+
     cout << "this is going to be a biggest feature of the year";
->>>>>>> new2
 }
 
 void mergesort(){
